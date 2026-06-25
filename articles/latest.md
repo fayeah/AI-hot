@@ -1,4 +1,4 @@
-# AI 工程化文章推荐（2026-06-25 17:15）
+# AI 工程化文章推荐（2026-06-25 17:33）
 
 1. [Show HN: ChainForge, a visual tool for prompt engineering and LLM evaluation](https://chainforge.ai/docs/)
    ↳ Hacker News · 177分  (相关度 13)
