@@ -1,0 +1,120 @@
+# AI 工程化文章推荐（2026-06-25 17:15）
+
+1. [Show HN: ChainForge, a visual tool for prompt engineering and LLM evaluation](https://chainforge.ai/docs/)
+   ↳ Hacker News · 177分  (相关度 13)
+
+2. [Part 6 — RAG Recall Quality from 60% to 93%: Building a Continuous Evaluation Loop (Not Gut Feeling)](https://dev.to/jamesli/part-6-rag-recall-quality-from-60-to-93-building-a-continuous-evaluation-loop-not-gut-feeling-382k)
+   ↳ DEV.to · 7赞·10分钟  (相关度 12)
+   This article covers the sixth and final layer of the full-stack architecture: the Evaluation &amp;...
+
+3. [RAG-Based Testing Series — Part 5: Building a RAG Test Framework from Scratch](https://dev.to/sshhfaiz/rag-based-testing-series-part-5-building-a-rag-test-framework-from-scratch-5ehh)
+   ↳ DEV.to · 11赞·13分钟  (相关度 12)
+   Stop writing one-off tests. Learn how to combine retrieval quality, faithfulness, and edge case testing into a single st
+
+4. [An LLM API call, in 4 GIFs](https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1)
+   ↳ DEV.to · 111赞·4分钟  (相关度 11)
+   This is the first post of series Building TinyAgent where we are going to build a small agent from...
+
+5. [Your AI Agent Isn't Failing Because It Hallucinates — It's Failing Because of Rate Limits](https://dev.to/p0rt/your-ai-agent-isnt-failing-because-it-hallucinates-its-failing-because-of-rate-limits-2d60)
+   ↳ DEV.to · 32赞·6分钟  (相关度 11)
+   The dominant production failure mode for LLM agents in 2026 isn't bad reasoning — it's capacity. Here's what the data sh
+
+6. [Choosing a Vector Database in 2026: pgvector vs. Pinecone vs. Qdrant vs. Weaviate vs. Milvus](https://dev.to/arya_koste_5845807df94776/choosing-a-vector-database-in-2026-pgvector-vs-pinecone-vs-qdrant-vs-weaviate-vs-milvus-422k)
+   ↳ DEV.to · 2赞·9分钟  (相关度 10)
+   Every RAG tutorial pulls the same move. It walks you through embeddings, chunking, retrieval, and...
+
+7. [The 'Prompt' Is Not a Skill — And We Need to Stop Pretending](https://dev.to/harsh2644/the-prompt-is-not-a-skill-and-we-need-to-stop-pretending-3m18)
+   ↳ DEV.to · 70赞·6分钟  (相关度 8)
+   Writing a prompt isn't engineering. It's typing.  You type what you want. The AI figures out the rest...
+
+8. [The Reliability Problem That Forced Us to Rethink AI Agents](https://dev.to/pallavi_sharma_10c1a6f1da/the-reliability-problem-that-forced-us-to-rethink-ai-agents-53l)
+   ↳ DEV.to · 8赞·5分钟  (相关度 8)
+   A few months into building AI agents for client projects, we hit a pattern that should sound familiar...
+
+9. [I Shipped a Strict-Source RAG System to Production in 8 Weeks: A Full-Stack Engineering Retrospective](https://dev.to/jamesli/i-shipped-a-strict-source-rag-system-to-production-in-8-weeks-a-full-stack-engineering-1fkc)
+   ↳ DEV.to · 5赞·4分钟  (相关度 8)
+   This is a story about "getting RAG right" — not a demo, but a production system under real business...
+
+10. [RAG Is Not Always the Answer Anymore: How AI Agents Search Code in 2026](https://dev.to/nimay_04/rag-is-not-always-the-answer-anymore-how-ai-agents-search-code-in-2026-43m3)
+   ↳ DEV.to · 5赞·6分钟  (相关度 8)
+   Why modern AI coding agents often use grep, file reads, symbols, and tests before reaching for vector RAG.
+
+11. [My Company Bought a $660K AI Platform. I Was Replaced. On Friday at 2:58 AM, It Fixed Everything. Then It Rolled Back the Wrong Patch.](https://dev.to/xulingfeng/my-company-bought-a-660k-ai-platform-i-was-replaced-on-friday-at-258-am-it-fixed-everything-3kc4)
+   ↳ DEV.to · 48赞·7分钟  (相关度 7)
+   Based on real system architecture decisions. About a $660K AI platform, three AI agents that kept the...
+
+12. [Teach Your Agent to Forget (On Purpose)](https://dev.to/lovestaco/teach-your-agent-to-forget-on-purpose-38dh)
+   ↳ DEV.to · 31赞·7分钟  (相关度 7)
+   Hello, I'm Maneshwar. I'm building git-lrc, a Micro AI code reviewer that runs on every commit. It is...
+
+13. [When Prompt Batching Made My LLM App More Expensive](https://dev.to/ahikmah/when-prompt-batching-made-my-llm-app-more-expensive-5gf5)
+   ↳ DEV.to · 20赞·4分钟  (相关度 7)
+   I was working on cost optimization for an LLM-based document translation pipeline.  At that point,...
+
+14. [An AI Feature Has No "Tests Pass" Moment. So I Write the Eval First.](https://dev.to/mrviduus/an-ai-feature-has-no-tests-pass-moment-so-i-write-the-eval-first-1f7p)
+   ↳ DEV.to · 11赞·4分钟  (相关度 6)
+   I was building an "Ask This Book" feature: readers can ask questions about a book while they're...
+
+15. [You Fixed the Rate Limits. Now Your Agent Fails Quietly.](https://dev.to/p0rt/you-fixed-the-rate-limits-now-your-agent-fails-quietly-3keo)
+   ↳ DEV.to · 13赞·8分钟  (相关度 6)
+   Every capacity fix - retries, fallbacks, caching - buys availability by acting on output it didn't freshly earn. Why upt
+
+16. [What Building My Own AI Bot Taught Me About Generative AI](https://dev.to/dannwaneri/what-building-my-own-ai-bot-taught-me-about-generative-ai-57il)
+   ↳ DEV.to · 50赞·6分钟  (相关度 6)
+   I built a bot trained on my own X bookmarks and likes. Around 50,000 of them, accumulated over years...
+
+17. [Google ADK Security: 5 Layers That Defend AI Agents From Prompt Injection](https://dev.to/gde/google-adk-security-5-layers-that-defend-ai-agents-from-prompt-injection-1ped)
+   ↳ DEV.to · 11赞·5分钟  (相关度 6)
+   A $3,000 refund just went out. No human approved it. Your AI agent read a poisoned tool response and...
+
+18. [Building Your First Real GPT Is Not a Prompting Exercise](https://dev.to/simongriffiths/building-your-first-real-gpt-is-not-a-prompting-exercise-2p30)
+   ↳ DEV.to · 1赞·6分钟  (相关度 6)
+   I recently built my first non-trivial GPT.  The interesting lesson was not about clever prompting. It...
+
+19. [My eval harness paid for itself on the first run: 0.57 0.96, two bugs no unit test could catch](https://dev.to/delmalih/my-eval-harness-paid-for-itself-on-the-first-run-057-096-two-bugs-no-unit-test-could-catch-55ip)
+   ↳ DEV.to · 2赞·5分钟  (相关度 6)
+   I almost shipped a RAG pipeline that, on certain questions, cited exactly the right document — and...
+
+20. [Part 3 — Vector Retrieval in Domain-Specific Terminology Scenarios: From Model Selection to Dual Validation](https://dev.to/jamesli/part-3-vector-retrieval-in-domain-specific-terminology-scenarios-from-model-selection-to-dual-3485)
+   ↳ DEV.to · 6赞·10分钟  (相关度 6)
+   This article covers the third layer of the full-stack architecture: the Hybrid Retrieval Layer. Core...
+
+21. [I added a reranker to my RAG pipeline — it broke everything, then I fixed it](https://dev.to/santanu_mohanta_29/i-added-a-reranker-to-my-rag-pipeline-it-broke-everything-then-i-fixed-it-1c9i)
+   ↳ DEV.to · 1赞·5分钟  (相关度 6)
+   In v2 I added hybrid retrieval (FAISS + BM25) to fix keyword blindspots. All 19 test questions...
+
+22. [CSS – only a Nerdy Hobby?](https://dev.to/ingosteinke/css-only-a-nerdy-hobby-17hf)
+   ↳ DEV.to · 43赞·3分钟  (相关度 5)
+   In times when people believe that "AI can code a website in 2 days" (see: how to leverage AI as a...
+
+23. [. .. . ... . .... . .... . ... .](https://dev.to/lovestaco/--2kb7)
+   ↳ DEV.to · 41赞·6分钟  (相关度 5)
+   Hello, I'm Maneshwar. I'm building git-lrc, a Micro AI code reviewer that runs on every commit. It is...
+
+24. [From vibe coding to clear thinking: what non-technical builders need in the age of AI](https://dev.to/javz/from-vibe-coding-to-clear-thinking-what-non-technical-builders-need-in-the-age-of-ai-4nbd)
+   ↳ DEV.to · 54赞·7分钟  (相关度 4)
+   Over the past few months, I’ve increasingly noticed something through my network:  more people from...
+
+25. [Ways Devs Are Plugging LLMs Into Anomaly Detection](https://dev.to/lovestaco/ways-devs-are-plugging-llms-into-anomaly-detection-1b3o)
+   ↳ DEV.to · 14赞·7分钟  (相关度 4)
+   Hello, I'm Maneshwar. I'm building git-lrc, a Micro AI code reviewer that runs on every commit. It is...
+
+26. [Don't Do Your Taxes at a Party](https://dev.to/lovestaco/dont-do-your-taxes-at-a-party-4ep7)
+   ↳ DEV.to · 19赞·5分钟  (相关度 4)
+   Hello, I'm Maneshwar. I'm building git-lrc, a Micro AI code reviewer that runs on every commit. It is...
+
+27. [Your Agent Failed in Prod. Good Luck Reproducing It.](https://dev.to/tisha/your-agent-failed-in-prod-good-luck-reproducing-it-56ci)
+   ↳ DEV.to · 11赞·23分钟  (相关度 4)
+   Why LLM agents are so hard to reproduce, why some of that nondeterminism is a feature you should not remove, and how rec
+
+28. [Trust Isn't a Scalar: Typed Provenance for Agent Chains](https://dev.to/p0rt/trust-isnt-a-scalar-typed-provenance-for-agent-chains-229p)
+   ↳ DEV.to · 13赞·9分钟  (相关度 4)
+   Two posts ago I gave you a boolean trust tag. A commenter took it apart, and he was right. Here's the better model: trus
+
+29. [I gave my AI agents a constitution. The best thing they did was change it.](https://dev.to/yehudals/i-gave-my-ai-agents-a-constitution-the-best-thing-they-did-was-change-it-2n9m)
+   ↳ DEV.to · 0赞·5分钟  (相关度 4)
+   Here is the uncomfortable truth about every multi-agent system you've ever set up: the rules you...
+
+30. [ChatGPT's Biggest Upgrade Ever: What Developers Actually Need to Know [June 2026]](https://dev.to/kunal_d6a8fea2309e1571ee7/chatgpts-biggest-upgrade-ever-what-developers-actually-need-to-know-june-2026-dh6)
+   ↳ DEV.to · 0赞·8分钟  (相关度 4)
+   OpenAI shipped more developer infrastructure in six months than the prior two years combined. Here's what actually chang
