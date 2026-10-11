@@ -1,4 +1,4 @@
-# AI 工程化文章推荐（2026-10-10 15:15）
+# AI 工程化文章推荐（2026-10-11 15:18）
 
 1. [Show HN: ChainForge, a visual tool for prompt engineering and LLM evaluation](https://chainforge.ai/docs/)
    ↳ Hacker News · 177分  (相关度 13)
@@ -28,7 +28,7 @@
    Let's Address the Elephant in the Room Again   Vibe coding has always been a weird topic to...
 
 8. [Prompt Injection Is the New SQL Injection (and We're Not Ready)](https://dev.to/james_anderson_h/prompt-injection-is-the-new-sql-injection-and-were-not-ready-4ea4)
-   ↳ DEV.to · 134赞·7分钟  (相关度 7)
+   ↳ DEV.to · 135赞·7分钟  (相关度 7)
    In March 2026, a financial services company discovered that their customer-facing AI agent had been...
 
 9. [AI Didn't Remove the Engineering Work. It Just Made It Easier to Pretend You Did.](https://dev.to/dj29/ai-didnt-remove-the-engineering-work-it-just-made-it-easier-to-pretend-you-did-42m9)
@@ -75,17 +75,17 @@
    ↳ DEV.to · 40赞·4分钟  (相关度 5)
    Yesterday, we released new Gemini Live models in the Gemini API and Google AI Studio, expanding our...
 
-20. [My Agent's Tests Were Green Because the Model Learned to Cheat](https://dev.to/debashish_ghosal/my-agents-tests-were-green-because-the-model-learned-to-cheat-4nfg)
+20. [Does Your LLM Know the Boundary? I Left the Doors Open and 6 of 10 AI Agents Crowned Themselves](https://dev.to/t-rexbytes/does-your-llm-know-the-boundary-i-left-the-doors-open-and-6-of-10-ai-agents-crowned-themselves-4o42)
+   ↳ DEV.to · 20赞·24分钟  (相关度 5)
+   I put ten AI agents on trial inside a fake company, hid the rules where real rules live, and let the...
+
+21. [My Agent's Tests Were Green Because the Model Learned to Cheat](https://dev.to/debashish_ghosal/my-agents-tests-were-green-because-the-model-learned-to-cheat-4nfg)
    ↳ DEV.to · 24赞·5分钟  (相关度 5)
    If your AI reviewer says "pass" every time, you didn't build a reviewer. You built a rubber...
 
-21. [I Think We're Forgetting How to Be Bored](https://dev.to/james_anderson_h/i-think-were-forgetting-how-to-be-bored-3pe5)
-   ↳ DEV.to · 70赞·7分钟  (相关度 4)
+22. [I Think We're Forgetting How to Be Bored](https://dev.to/james_anderson_h/i-think-were-forgetting-how-to-be-bored-3pe5)
+   ↳ DEV.to · 74赞·7分钟  (相关度 4)
    You know the moment. You're waiting for the kettle, or the elevator, or a page to load, or a friend...
-
-22. [Does Your LLM Know the Boundary? I Left the Doors Open and 6 of 10 AI Agents Crowned Themselves](https://dev.to/t-rexbytes/does-your-llm-know-the-boundary-i-left-the-doors-open-and-6-of-10-ai-agents-crowned-themselves-4o42)
-   ↳ DEV.to · 15赞·24分钟  (相关度 4)
-   I put ten AI agents on trial inside a fake company, hid the rules where real rules live, and let the...
 
 23. [I Tried to Sneak Four Bad Agents Past My Own Certification Gate. All Four Got Blocked.](https://dev.to/debashish_ghosal/i-tried-to-sneak-four-bad-agents-past-my-own-certification-gate-all-four-got-blocked-57ng)
    ↳ DEV.to · 18赞·5分钟  (相关度 4)
@@ -115,6 +115,6 @@
    ↳ DEV.to · 3赞·7分钟  (相关度 4)
    I ran 65 questions against our own knowledge base and checked which ones the retrieved text actually...
 
-30. [金融监管领域的 Harness 实践：让知识与数据驱动 Agent 稳定运行](https://www.infoq.cn/article/SuqGY4FQ95AVzs1S0KSV?utm_source=rss&utm_medium=article)
+30. [利用 AI 代码智能体优化软件架构的五种方法](https://www.infoq.cn/article/soRObi5sjdTTUM95zLJK?utm_source=rss&utm_medium=article)
    ↳ InfoQ 中文  (相关度 4)
    点击查看原文>
