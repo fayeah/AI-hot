@@ -1,4 +1,4 @@
-# AI 工程化文章推荐（2026-10-11 15:18）
+# AI 工程化文章推荐（2026-10-12 15:27）
 
 1. [Show HN: ChainForge, a visual tool for prompt engineering and LLM evaluation](https://chainforge.ai/docs/)
    ↳ Hacker News · 177分  (相关度 13)
@@ -8,7 +8,7 @@
    Hello, I'm Maneshwar, and I'm building LiveReview — a blast-radius aware AI code review built for...
 
 3. [How to Use Jev: A practical guide to TypeSafe's System One model](https://dev.to/valyuai/how-to-use-jev-a-practical-guide-to-typesafes-system-one-model-g5e)
-   ↳ DEV.to · 281赞·15分钟  (相关度 9)
+   ↳ DEV.to · 282赞·15分钟  (相关度 9)
    Jev is a frontier AI model from TypeSafe AI that returns typed, probabilistic decisions instead of...
 
 4. [Can Two Local AI Agents Build an App Without Me? I Gave Them 6 Rounds to Find Out](https://dev.to/mikachu/can-two-local-ai-agents-build-an-app-without-me-i-gave-them-6-rounds-to-find-out-ko1)
@@ -59,62 +59,62 @@
    ↳ DEV.to · 1赞·7分钟  (相关度 6)
    The agentic RAG pipeline that was faster and cheaper — and no more accurate than no agent at...
 
-16. [从 Coding 到 Running：AI Native SRE Agent 的工程实践](https://www.infoq.cn/article/o9XwsHUvCjL3eHKT7YPU?utm_source=rss&utm_medium=article)
-   ↳ InfoQ 中文  (相关度 6)
-   点击查看原文>
-
-17. [What If Your AI Agent Never Had to Leave the Browser? (Demo 🚀)](https://dev.to/sylwia-lask/what-if-your-ai-agent-never-had-to-leave-the-browser-demo--5g)
+16. [What If Your AI Agent Never Had to Leave the Browser? (Demo 🚀)](https://dev.to/sylwia-lask/what-if-your-ai-agent-never-had-to-leave-the-browser-demo--5g)
    ↳ DEV.to · 186赞·8分钟  (相关度 5)
    I haven't written anything lately because, honestly, I just didn't have the headspace for it. There...
 
-18. [The Slow and Quiet Cognitive Atrophy of a Modern Software Engineer](https://dev.to/codingwithjiro/the-slow-and-quiet-cognitive-atrophy-of-a-modern-software-engineer-3lbh)
+17. [The Slow and Quiet Cognitive Atrophy of a Modern Software Engineer](https://dev.to/codingwithjiro/the-slow-and-quiet-cognitive-atrophy-of-a-modern-software-engineer-3lbh)
    ↳ DEV.to · 106赞·9分钟  (相关度 5)
    Over the past couple of months, I've read a lot of articles about the consequences of AI dependency...
 
-19. [Build real-time voice applications with Gemini 3.8 Live and 3.5 Transcribe](https://dev.to/googleai/build-real-time-voice-applications-with-gemini-38-live-and-35-transcribe-4nb5)
+18. [Build real-time voice applications with Gemini 3.8 Live and 3.5 Transcribe](https://dev.to/googleai/build-real-time-voice-applications-with-gemini-38-live-and-35-transcribe-4nb5)
    ↳ DEV.to · 40赞·4分钟  (相关度 5)
    Yesterday, we released new Gemini Live models in the Gemini API and Google AI Studio, expanding our...
 
-20. [Does Your LLM Know the Boundary? I Left the Doors Open and 6 of 10 AI Agents Crowned Themselves](https://dev.to/t-rexbytes/does-your-llm-know-the-boundary-i-left-the-doors-open-and-6-of-10-ai-agents-crowned-themselves-4o42)
-   ↳ DEV.to · 20赞·24分钟  (相关度 5)
+19. [Does Your LLM Know the Boundary? I Left the Doors Open and 6 of 10 AI Agents Crowned Themselves](https://dev.to/t-rexbytes/does-your-llm-know-the-boundary-i-left-the-doors-open-and-6-of-10-ai-agents-crowned-themselves-4o42)
+   ↳ DEV.to · 26赞·24分钟  (相关度 5)
    I put ten AI agents on trial inside a fake company, hid the rules where real rules live, and let the...
 
-21. [My Agent's Tests Were Green Because the Model Learned to Cheat](https://dev.to/debashish_ghosal/my-agents-tests-were-green-because-the-model-learned-to-cheat-4nfg)
+20. [My Agent's Tests Were Green Because the Model Learned to Cheat](https://dev.to/debashish_ghosal/my-agents-tests-were-green-because-the-model-learned-to-cheat-4nfg)
    ↳ DEV.to · 24赞·5分钟  (相关度 5)
    If your AI reviewer says "pass" every time, you didn't build a reviewer. You built a rubber...
 
-22. [I Think We're Forgetting How to Be Bored](https://dev.to/james_anderson_h/i-think-were-forgetting-how-to-be-bored-3pe5)
-   ↳ DEV.to · 74赞·7分钟  (相关度 4)
+21. [I Think We're Forgetting How to Be Bored](https://dev.to/james_anderson_h/i-think-were-forgetting-how-to-be-bored-3pe5)
+   ↳ DEV.to · 82赞·7分钟  (相关度 4)
    You know the moment. You're waiting for the kettle, or the elevator, or a page to load, or a friend...
 
-23. [I Tried to Sneak Four Bad Agents Past My Own Certification Gate. All Four Got Blocked.](https://dev.to/debashish_ghosal/i-tried-to-sneak-four-bad-agents-past-my-own-certification-gate-all-four-got-blocked-57ng)
+22. [I Tried to Sneak Four Bad Agents Past My Own Certification Gate. All Four Got Blocked.](https://dev.to/debashish_ghosal/i-tried-to-sneak-four-bad-agents-past-my-own-certification-gate-all-four-got-blocked-57ng)
    ↳ DEV.to · 18赞·5分钟  (相关度 4)
    Last week I spent a day trying to defeat software I wrote myself. Not a red-team exercise I...
 
-24. [The idle-parent trap on LLM Agents](https://dev.to/maxstravion/the-idle-parent-trap-on-llm-agents-1ma5)
+23. [The idle-parent trap on LLM Agents](https://dev.to/maxstravion/the-idle-parent-trap-on-llm-agents-1ma5)
    ↳ DEV.to · 0赞·3分钟  (相关度 4)
    Companion to Two agents, one night, 158 million tokens. About four minutes to read.           The...
 
-25. [What Is Prompt Chaining? (And How to Stop Asking AI to Do Five Things in One Breath)](https://dev.to/scobsmett/what-is-prompt-chaining-and-how-to-stop-asking-ai-to-do-five-things-in-one-breath-419m)
+24. [What Is Prompt Chaining? (And How to Stop Asking AI to Do Five Things in One Breath)](https://dev.to/scobsmett/what-is-prompt-chaining-and-how-to-stop-asking-ai-to-do-five-things-in-one-breath-419m)
    ↳ DEV.to · 5赞·6分钟  (相关度 4)
    Imagine you've decided to train a squirrel to make you a sandwich. You could try screaming "MAKE...
 
-26. [OpenAI Dev Day 2026: from personal agents to new distribution possibilities](https://dev.to/alpic/openai-dev-day-2026-from-personal-agents-to-new-distribution-possibilities-12c5)
-   ↳ DEV.to · 2赞·3分钟  (相关度 4)
-   OpenAI’s Dev Day keynote made a case for AI that does more than answer questions. The announcements...
-
-27. [My RAG system's refusal threshold was having no effect. I only found out because I measured it.](https://dev.to/apkhajuria_/my-rag-systems-refusal-threshold-was-having-no-effect-i-only-found-out-because-i-measured-it-o9n)
+25. [My RAG system's refusal threshold was having no effect. I only found out because I measured it.](https://dev.to/apkhajuria_/my-rag-systems-refusal-threshold-was-having-no-effect-i-only-found-out-because-i-measured-it-o9n)
    ↳ DEV.to · 6赞·6分钟  (相关度 4)
    I'm a Java backend engineer. Three years of Spring Boot, Kafka and Postgres in a regulated healthcare...
 
-28. [Search Agents Waste Half Their Tokens Rediscovering Entity Links](https://dev.to/reidmarlow/search-agents-waste-half-their-tokens-rediscovering-entity-links-31an)
+26. [Search Agents Waste Half Their Tokens Rediscovering Entity Links](https://dev.to/reidmarlow/search-agents-waste-half-their-tokens-rediscovering-entity-links-31an)
    ↳ DEV.to · 13赞·5分钟  (相关度 4)
    If you wire an LLM agent to a local directory of documents and give it terminal tools (grep, find,...
 
-29. [Retrieval confidence can't tell your RAG chatbot when the answer is missing](https://dev.to/klausbyskov/retrieval-confidence-cant-tell-your-rag-chatbot-when-the-answer-is-missing-2ml0)
+27. [Retrieval confidence can't tell your RAG chatbot when the answer is missing](https://dev.to/klausbyskov/retrieval-confidence-cant-tell-your-rag-chatbot-when-the-answer-is-missing-2ml0)
    ↳ DEV.to · 3赞·7分钟  (相关度 4)
    I ran 65 questions against our own knowledge base and checked which ones the retrieved text actually...
 
-30. [利用 AI 代码智能体优化软件架构的五种方法](https://www.infoq.cn/article/soRObi5sjdTTUM95zLJK?utm_source=rss&utm_medium=article)
+28. [利用 AI 代码智能体优化软件架构的五种方法](https://www.infoq.cn/article/soRObi5sjdTTUM95zLJK?utm_source=rss&utm_medium=article)
+   ↳ InfoQ 中文  (相关度 4)
+   点击查看原文>
+
+29. [AI 时代的移动端稳定性保障 —— 柯南 AI Agent 实践｜QCon上海](https://www.infoq.cn/article/FTtTLqvzJeMiE03IowFP?utm_source=rss&utm_medium=article)
+   ↳ InfoQ 中文  (相关度 4)
+   点击查看原文>
+
+30. [CLAUDE.md 还是 AGENTS.md？Anthropic 的答案是：以后都不用](https://www.infoq.cn/article/MAo3KoDWm9FGIcKau9AK?utm_source=rss&utm_medium=article)
    ↳ InfoQ 中文  (相关度 4)
    点击查看原文>
