@@ -1,4 +1,4 @@
-# AI 工程化文章推荐（2026-10-17 13:40）
+# AI 工程化文章推荐（2026-10-18 14:02）
 
 1. [Show HN: ChainForge, a visual tool for prompt engineering and LLM evaluation](https://chainforge.ai/docs/)
    ↳ Hacker News · 177分  (相关度 13)
@@ -7,61 +7,61 @@
    ↳ DEV.to · 52赞·14分钟  (相关度 10)
    Hello, I'm Maneshwar, and I'm building LiveReview — a blast-radius aware AI code review built for...
 
-3. [How to Use Jev: A practical guide to TypeSafe's System One model](https://dev.to/valyuai/how-to-use-jev-a-practical-guide-to-typesafes-system-one-model-g5e)
-   ↳ DEV.to · 286赞·15分钟  (相关度 9)
-   Jev is a frontier AI model from TypeSafe AI that returns typed, probabilistic decisions instead of...
-
-4. [Can Two Local AI Agents Build an App Without Me? I Gave Them 6 Rounds to Find Out](https://dev.to/mikachu/can-two-local-ai-agents-build-an-app-without-me-i-gave-them-6-rounds-to-find-out-ko1)
+3. [Can Two Local AI Agents Build an App Without Me? I Gave Them 6 Rounds to Find Out](https://dev.to/mikachu/can-two-local-ai-agents-build-an-app-without-me-i-gave-them-6-rounds-to-find-out-ko1)
    ↳ DEV.to · 11赞·8分钟  (相关度 8)
    I have very, very limited experience with AI agents.  I've used AI heavily while building software,...
 
-5. [From ChatGPT to Coding Agents: A Developer's Journey with LLMs (2023–2026)](https://dev.to/juanmirod/from-chatgpt-to-coding-agents-a-developers-journey-with-llms-2023-2026-137)
+4. [From ChatGPT to Coding Agents: A Developer's Journey with LLMs (2023–2026)](https://dev.to/juanmirod/from-chatgpt-to-coding-agents-a-developers-journey-with-llms-2023-2026-137)
    ↳ DEV.to · 0赞·3分钟  (相关度 8)
    How a developer's relationship with LLMs evolved from 2023 to 2026: ChatGPT as an interface, building with AI, and what 
 
-6. [Architecting for AI-Native Platforms: RAG, LLM Orchestration, and Agentic Patterns](https://dev.to/manoharhalappa/architecting-for-ai-native-platforms-rag-llm-orchestration-and-agentic-patterns-2ffj)
+5. [Architecting for AI-Native Platforms: RAG, LLM Orchestration, and Agentic Patterns](https://dev.to/manoharhalappa/architecting-for-ai-native-platforms-rag-llm-orchestration-and-agentic-patterns-2ffj)
    ↳ DEV.to · 3赞·8分钟  (相关度 8)
    AI adoption in an enterprise SaaS platform is rarely about adding an LLM API and calling it...
 
-7. [Prompt Injection Is the New SQL Injection (and We're Not Ready)](https://dev.to/james_anderson_h/prompt-injection-is-the-new-sql-injection-and-were-not-ready-4ea4)
+6. [Prompt Injection Is the New SQL Injection (and We're Not Ready)](https://dev.to/james_anderson_h/prompt-injection-is-the-new-sql-injection-and-were-not-ready-4ea4)
    ↳ DEV.to · 135赞·7分钟  (相关度 7)
    In March 2026, a financial services company discovered that their customer-facing AI agent had been...
 
-8. [7 Agent Eval Mistakes That Cost Me Weeks (And the One-Line Fixes That Ended Them)](https://dev.to/debashish_ghosal/7-agent-eval-mistakes-that-cost-me-weeks-and-the-one-line-fixes-that-ended-them-ho)
+7. [7 Agent Eval Mistakes That Cost Me Weeks (And the One-Line Fixes That Ended Them)](https://dev.to/debashish_ghosal/7-agent-eval-mistakes-that-cost-me-weeks-and-the-one-line-fixes-that-ended-them-ho)
    ↳ DEV.to · 24赞·5分钟  (相关度 7)
    You've been there. You run the eval, the number comes back, and something about it doesn't sit...
 
-9. [How to Make AI Summaries Stop Dropping the Important Parts: A Copy-Paste Prompt (Tested)](https://dev.to/yvoolab/how-to-make-ai-summaries-stop-dropping-the-important-parts-a-copy-paste-prompt-tested-3bcn)
+8. [How to Make AI Summaries Stop Dropping the Important Parts: A Copy-Paste Prompt (Tested)](https://dev.to/yvoolab/how-to-make-ai-summaries-stop-dropping-the-important-parts-a-copy-paste-prompt-tested-3bcn)
    ↳ DEV.to · 2赞·5分钟  (相关度 6)
    When an AI summary is missing important details — exceptions, deadlines, must-not rules — a plain 'summarize this' won't
 
-10. [What does it take to run a headless browser farm for ChatGPT at scale? The engineering build](https://dev.to/rbatista19/what-does-it-take-to-run-a-headless-browser-farm-for-chatgpt-at-scale-the-engineering-build-22ho)
+9. [What does it take to run a headless browser farm for ChatGPT at scale? The engineering build](https://dev.to/rbatista19/what-does-it-take-to-run-a-headless-browser-farm-for-chatgpt-at-scale-the-engineering-build-22ho)
    ↳ DEV.to · 0赞·7分钟  (相关度 6)
    A headless browser farm for ChatGPT at scale takes five components in every browser and three systems...
 
-11. [Why a Financial Advisor App Needs a RAG Vault, Not Just a Chatbot](https://dev.to/vicarioy/why-a-financial-advisor-app-needs-a-rag-vault-not-just-a-chatbot-46ph)
+10. [Why a Financial Advisor App Needs a RAG Vault, Not Just a Chatbot](https://dev.to/vicarioy/why-a-financial-advisor-app-needs-a-rag-vault-not-just-a-chatbot-46ph)
    ↳ DEV.to · 2赞·4分钟  (相关度 6)
    When I started building Vicquant, the core design principle was simple and non-negotiable: the AI...
 
-12. [Your Browser Can Do WHAT?! 5 AI Features That Actually Work](https://dev.to/sylwia-lask/your-browser-can-do-what-5-ai-features-that-actually-work-1blb)
-   ↳ DEV.to · 151赞·12分钟  (相关度 5)
+11. [Your Browser Can Do WHAT?! 5 AI Features That Actually Work](https://dev.to/sylwia-lask/your-browser-can-do-what-5-ai-features-that-actually-work-1blb)
+   ↳ DEV.to · 169赞·12分钟  (相关度 5)
    Are AI models running directly in the browser finally good enough to use in production? Let's find...
 
-13. [What If Your AI Agent Never Had to Leave the Browser? (Demo 🚀)](https://dev.to/sylwia-lask/what-if-your-ai-agent-never-had-to-leave-the-browser-demo--5g)
+12. [What If Your AI Agent Never Had to Leave the Browser? (Demo 🚀)](https://dev.to/sylwia-lask/what-if-your-ai-agent-never-had-to-leave-the-browser-demo--5g)
    ↳ DEV.to · 187赞·8分钟  (相关度 5)
    I haven't written anything lately because, honestly, I just didn't have the headspace for it. There...
 
-14. [AI Fatigue? Yea I know.](https://dev.to/francistrdev/ai-fatigue-yea-i-know-f9)
-   ↳ DEV.to · 138赞·3分钟  (相关度 5)
+13. [AI Fatigue? Yea I know.](https://dev.to/francistrdev/ai-fatigue-yea-i-know-f9)
+   ↳ DEV.to · 156赞·3分钟  (相关度 5)
    I don't know how to start this off really haha. Though to be fair, everyone is talking about AI...
 
-15. [Does Your LLM Know the Boundary? I Left the Doors Open and 6 of 10 AI Agents Crowned Themselves](https://dev.to/t-rexbytes/does-your-llm-know-the-boundary-i-left-the-doors-open-and-6-of-10-ai-agents-crowned-themselves-4o42)
+14. [Does Your LLM Know the Boundary? I Left the Doors Open and 6 of 10 AI Agents Crowned Themselves](https://dev.to/t-rexbytes/does-your-llm-know-the-boundary-i-left-the-doors-open-and-6-of-10-ai-agents-crowned-themselves-4o42)
    ↳ DEV.to · 29赞·24分钟  (相关度 5)
    I put ten AI agents on trial inside a fake company, hid the rules where real rules live, and let the...
 
-16. [I Think We're Forgetting How to Be Bored](https://dev.to/james_anderson_h/i-think-were-forgetting-how-to-be-bored-3pe5)
+15. [I Think We're Forgetting How to Be Bored](https://dev.to/james_anderson_h/i-think-were-forgetting-how-to-be-bored-3pe5)
    ↳ DEV.to · 87赞·7分钟  (相关度 4)
    You know the moment. You're waiting for the kettle, or the elevator, or a page to load, or a friend...
+
+16. [I Tried to Sneak Four Bad Agents Past My Own Certification Gate. All Four Got Blocked.](https://dev.to/debashish_ghosal/i-tried-to-sneak-four-bad-agents-past-my-own-certification-gate-all-four-got-blocked-57ng)
+   ↳ DEV.to · 18赞·5分钟  (相关度 4)
+   Last week I spent a day trying to defeat software I wrote myself. Not a red-team exercise I...
 
 17. [Search Agents Waste Half Their Tokens Rediscovering Entity Links](https://dev.to/reidmarlow/search-agents-waste-half-their-tokens-rediscovering-entity-links-31an)
    ↳ DEV.to · 13赞·5分钟  (相关度 4)
