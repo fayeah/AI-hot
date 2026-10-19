@@ -1,4 +1,4 @@
-# AI 工程化文章推荐（2026-10-18 14:02）
+# AI 工程化文章推荐（2026-10-19 14:18）
 
 1. [Show HN: ChainForge, a visual tool for prompt engineering and LLM evaluation](https://chainforge.ai/docs/)
    ↳ Hacker News · 177分  (相关度 13)
@@ -40,7 +40,7 @@
    When I started building Vicquant, the core design principle was simple and non-negotiable: the AI...
 
 11. [Your Browser Can Do WHAT?! 5 AI Features That Actually Work](https://dev.to/sylwia-lask/your-browser-can-do-what-5-ai-features-that-actually-work-1blb)
-   ↳ DEV.to · 169赞·12分钟  (相关度 5)
+   ↳ DEV.to · 194赞·12分钟  (相关度 5)
    Are AI models running directly in the browser finally good enough to use in production? Let's find...
 
 12. [What If Your AI Agent Never Had to Leave the Browser? (Demo 🚀)](https://dev.to/sylwia-lask/what-if-your-ai-agent-never-had-to-leave-the-browser-demo--5g)
@@ -48,7 +48,7 @@
    I haven't written anything lately because, honestly, I just didn't have the headspace for it. There...
 
 13. [AI Fatigue? Yea I know.](https://dev.to/francistrdev/ai-fatigue-yea-i-know-f9)
-   ↳ DEV.to · 156赞·3分钟  (相关度 5)
+   ↳ DEV.to · 162赞·3分钟  (相关度 5)
    I don't know how to start this off really haha. Though to be fair, everyone is talking about AI...
 
 14. [Does Your LLM Know the Boundary? I Left the Doors Open and 6 of 10 AI Agents Crowned Themselves](https://dev.to/t-rexbytes/does-your-llm-know-the-boundary-i-left-the-doors-open-and-6-of-10-ai-agents-crowned-themselves-4o42)
@@ -91,28 +91,28 @@
    ↳ InfoQ 中文  (相关度 4)
    点击查看原文>
 
-24. [AI 写完代码，谁来验证？手淘 TEKO “写—验—修”自主闭环的工程实践｜QCon上海](https://www.infoq.cn/article/t3XbHewuN37fsodaprUC?utm_source=rss&utm_medium=article)
-   ↳ InfoQ 中文  (相关度 4)
-   点击查看原文>
-
-25. [Ask HN: Good Sites for/with AI Enthusiasts?](https://news.ycombinator.com/item?id=41579134)
+24. [Ask HN: Good Sites for/with AI Enthusiasts?](https://news.ycombinator.com/item?id=41579134)
    ↳ Hacker News · 126分  (相关度 3)
 
-26. [Show HN: Superblocks AI – AI coding assistant for internal apps](https://www.superblocks.com/blog/introducing-superblocks-ai)
+25. [Show HN: Superblocks AI – AI coding assistant for internal apps](https://www.superblocks.com/blog/introducing-superblocks-ai)
    ↳ Hacker News · 114分  (相关度 3)
 
-27. [We All Have a "Serious Work" AI and a "Just Vibing" AI. When Did That Happen?](https://dev.to/dj29/we-all-have-a-serious-work-ai-and-a-just-vibing-ai-when-did-that-happen-5fl2)
+26. [We All Have a "Serious Work" AI and a "Just Vibing" AI. When Did That Happen?](https://dev.to/dj29/we-all-have-a-serious-work-ai-and-a-just-vibing-ai-when-did-that-happen-5fl2)
    ↳ DEV.to · 120赞·4分钟  (相关度 3)
    Hi Guys!!! As you know I wasn't good for well, a week and Now.....   Let's Dive In!!!  I never...
 
-28. [Count It or Compute It: When a Tool Returns Rows, the Models That Count Them Right Spend the Tokens](https://dev.to/gde/count-it-or-compute-it-when-a-tool-returns-rows-the-models-that-count-them-right-spend-the-tokens-2hae)
+27. [Count It or Compute It: When a Tool Returns Rows, the Models That Count Them Right Spend the Tokens](https://dev.to/gde/count-it-or-compute-it-when-a-tool-returns-rows-the-models-that-count-them-right-spend-the-tokens-2hae)
    ↳ DEV.to · 15赞·10分钟  (相关度 3)
    A Kaggle benchmark of the step agents rarely test: counting what a tool returns. Ten models, 68 questions, one tool that
 
-29. [I Put a Local LLM in Charge of a Colony and Asked It to Tell the Truth. It Didn't.](https://dev.to/mikachu/i-built-a-text-based-survival-game-to-test-ai-morals-the-honest-one-lost-3fan)
+28. [I Put a Local LLM in Charge of a Colony and Asked It to Tell the Truth. It Didn't.](https://dev.to/mikachu/i-built-a-text-based-survival-game-to-test-ai-morals-the-honest-one-lost-3fan)
    ↳ DEV.to · 31赞·8分钟  (相关度 3)
    "Transparency is not an option, but accountability to the colony's well-being will guide every...
 
-30. [What 9,050 AI-Written Scripts Taught Me About Slop](https://dev.to/dailycontext/what-9050-ai-written-scripts-taught-me-about-slop-1g5n)
+29. [What 9,050 AI-Written Scripts Taught Me About Slop](https://dev.to/dailycontext/what-9050-ai-written-scripts-taught-me-about-slop-1g5n)
    ↳ DEV.to · 36赞·4分钟  (相关度 3)
    You’ve read way too many versions of this paragraph already. Probably even this week:   “In today’s...
+
+30. [Small Apache-2.0 Models Against Gemma 4 E2B on One TPU v5e: Which Ones Keep Up?](https://dev.to/gde/small-apache-20-models-against-gemma-4-e2b-on-one-tpu-v5e-which-ones-keep-up-mm4)
+   ↳ DEV.to · 21赞·10分钟  (相关度 3)
+   Fourteen Apache-2.0 and MIT open-weight models that fit one TPU v5e chip, served one after another through vLLM on the s
