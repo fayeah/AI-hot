@@ -1,4 +1,4 @@
-# AI 工程化文章推荐（2026-10-21 14:06）
+# AI 工程化文章推荐（2026-10-22 14:09）
 
 1. [Show HN: ChainForge, a visual tool for prompt engineering and LLM evaluation](https://chainforge.ai/docs/)
    ↳ Hacker News · 177分  (相关度 13)
@@ -24,7 +24,7 @@
    You've been there. You run the eval, the number comes back, and something about it doesn't sit...
 
 7. [What I Actually Learn When I Build With AI](https://dev.to/sizzlebop/what-i-actually-learn-when-i-build-with-ai-1074)
-   ↳ DEV.to · 57赞·7分钟  (相关度 6)
+   ↳ DEV.to · 62赞·7分钟  (相关度 6)
    I've spent entire nights building something with AI, gotten a bunch of features working, and then...
 
 8. [How to Make AI Summaries Stop Dropping the Important Parts: A Copy-Paste Prompt (Tested)](https://dev.to/yvoolab/how-to-make-ai-summaries-stop-dropping-the-important-parts-a-copy-paste-prompt-tested-3bcn)
@@ -43,37 +43,37 @@
    ↳ DEV.to · 2赞·7分钟  (相关度 6)
    Note: this is a composite scenario built from common production failure patterns in agent systems....
 
-12. [美团企业级 Agent 的平台化应用实践｜QCon上海](https://www.infoq.cn/article/BQJltkL1FJ9AG3cMeUmB?utm_source=rss&utm_medium=article)
+12. [从试点到规模化落地：制造业领导者如何推动 AI 应用并赢得高管层支持 ｜ 技术趋势](https://www.infoq.cn/article/Ms3bMt5OcUyYMHwfaXgM?utm_source=rss&utm_medium=article)
    ↳ InfoQ 中文  (相关度 6)
    点击查看原文>
 
-13. [AI Agent 越用越贵？如何借助可观测性平衡性能、质量与成本 ｜ 技术趋势](https://www.infoq.cn/article/4FreCLUUQb4W4AXUhXo5?utm_source=rss&utm_medium=article)
+13. [推动 AI 规模化落地的三大经验：来自公共部门领导者的实践洞察 ｜ 技术趋势](https://www.infoq.cn/article/GVcxHscrQqv9HXGRowJh?utm_source=rss&utm_medium=article)
    ↳ InfoQ 中文  (相关度 6)
    点击查看原文>
 
-14. [失败一次，受益多次：测试 Agent 从记忆到持续学习的工程实践｜QCon上海](https://www.infoq.cn/article/ZyjObqGawfurPFLBQONd?utm_source=rss&utm_medium=article)
-   ↳ InfoQ 中文  (相关度 6)
-   点击查看原文>
-
-15. [Your Browser Can Do WHAT?! 5 AI Features That Actually Work](https://dev.to/sylwia-lask/your-browser-can-do-what-5-ai-features-that-actually-work-1blb)
-   ↳ DEV.to · 201赞·12分钟  (相关度 5)
+14. [Your Browser Can Do WHAT?! 5 AI Features That Actually Work](https://dev.to/sylwia-lask/your-browser-can-do-what-5-ai-features-that-actually-work-1blb)
+   ↳ DEV.to · 200赞·12分钟  (相关度 5)
    Are AI models running directly in the browser finally good enough to use in production? Let's find...
 
-16. [What If Your AI Agent Never Had to Leave the Browser? (Demo 🚀)](https://dev.to/sylwia-lask/what-if-your-ai-agent-never-had-to-leave-the-browser-demo--5g)
-   ↳ DEV.to · 187赞·8分钟  (相关度 5)
-   I haven't written anything lately because, honestly, I just didn't have the headspace for it. There...
-
-17. [AI Fatigue? Yea I know.](https://dev.to/francistrdev/ai-fatigue-yea-i-know-f9)
+15. [AI Fatigue? Yea I know.](https://dev.to/francistrdev/ai-fatigue-yea-i-know-f9)
    ↳ DEV.to · 165赞·3分钟  (相关度 5)
    I don't know how to start this off really haha. Though to be fair, everyone is talking about AI...
 
-18. [Does Your LLM Know the Boundary? I Left the Doors Open and 6 of 10 AI Agents Crowned Themselves](https://dev.to/t-rexbytes/does-your-llm-know-the-boundary-i-left-the-doors-open-and-6-of-10-ai-agents-crowned-themselves-4o42)
+16. [10 Prompting Techniques My Deep Learning Exam Taught Me (That I Actually Use Now)](https://dev.to/dj29/10-prompting-techniques-my-deep-learning-exam-taught-me-that-i-actually-use-now-43h0)
+   ↳ DEV.to · 103赞·10分钟  (相关度 5)
+   You already use prompting every day.  You just don't know the names of what you're doing.  Every time...
+
+17. [Does Your LLM Know the Boundary? I Left the Doors Open and 6 of 10 AI Agents Crowned Themselves](https://dev.to/t-rexbytes/does-your-llm-know-the-boundary-i-left-the-doors-open-and-6-of-10-ai-agents-crowned-themselves-4o42)
    ↳ DEV.to · 29赞·24分钟  (相关度 5)
    I put ten AI agents on trial inside a fake company, hid the rules where real rules live, and let the...
 
-19. [I Think We're Forgetting How to Be Bored](https://dev.to/james_anderson_h/i-think-were-forgetting-how-to-be-bored-3pe5)
+18. [I Think We're Forgetting How to Be Bored](https://dev.to/james_anderson_h/i-think-were-forgetting-how-to-be-bored-3pe5)
    ↳ DEV.to · 87赞·7分钟  (相关度 4)
    You know the moment. You're waiting for the kettle, or the elevator, or a page to load, or a friend...
+
+19. [I Tried to Sneak Four Bad Agents Past My Own Certification Gate. All Four Got Blocked.](https://dev.to/debashish_ghosal/i-tried-to-sneak-four-bad-agents-past-my-own-certification-gate-all-four-got-blocked-57ng)
+   ↳ DEV.to · 18赞·5分钟  (相关度 4)
+   Last week I spent a day trying to defeat software I wrote myself. Not a red-team exercise I...
 
 20. [Search Agents Waste Half Their Tokens Rediscovering Entity Links](https://dev.to/reidmarlow/search-agents-waste-half-their-tokens-rediscovering-entity-links-31an)
    ↳ DEV.to · 13赞·5分钟  (相关度 4)
@@ -95,24 +95,24 @@
    ↳ DEV.to · 1赞·3分钟  (相关度 4)
    I went into the AI engineering courses hoping to feel stupid. I wanted the floor to move under me,...
 
-25. [AI生成的代码看不懂就扔掉重来：一位首席架构师的 5 条 Agent 编程反常识原则](https://www.infoq.cn/article/tgqMEJsqXfX6YzAcOiAR?utm_source=rss&utm_medium=article)
-   ↳ InfoQ 中文  (相关度 4)
-   点击查看原文>
-
-26. [Ask HN: Good Sites for/with AI Enthusiasts?](https://news.ycombinator.com/item?id=41579134)
+25. [Ask HN: Good Sites for/with AI Enthusiasts?](https://news.ycombinator.com/item?id=41579134)
    ↳ Hacker News · 126分  (相关度 3)
 
-27. [Show HN: Superblocks AI – AI coding assistant for internal apps](https://www.superblocks.com/blog/introducing-superblocks-ai)
+26. [Show HN: Superblocks AI – AI coding assistant for internal apps](https://www.superblocks.com/blog/introducing-superblocks-ai)
    ↳ Hacker News · 114分  (相关度 3)
 
-28. [We All Have a "Serious Work" AI and a "Just Vibing" AI. When Did That Happen?](https://dev.to/dj29/we-all-have-a-serious-work-ai-and-a-just-vibing-ai-when-did-that-happen-5fl2)
+27. [We All Have a "Serious Work" AI and a "Just Vibing" AI. When Did That Happen?](https://dev.to/dj29/we-all-have-a-serious-work-ai-and-a-just-vibing-ai-when-did-that-happen-5fl2)
    ↳ DEV.to · 120赞·4分钟  (相关度 3)
    Hi Guys!!! As you know I wasn't good for well, a week and Now.....   Let's Dive In!!!  I never...
 
-29. [Count It or Compute It: When a Tool Returns Rows, the Models That Count Them Right Spend the Tokens](https://dev.to/gde/count-it-or-compute-it-when-a-tool-returns-rows-the-models-that-count-them-right-spend-the-tokens-2hae)
+28. [Count It or Compute It: When a Tool Returns Rows, the Models That Count Them Right Spend the Tokens](https://dev.to/gde/count-it-or-compute-it-when-a-tool-returns-rows-the-models-that-count-them-right-spend-the-tokens-2hae)
    ↳ DEV.to · 15赞·10分钟  (相关度 3)
    A Kaggle benchmark of the step agents rarely test: counting what a tool returns. Ten models, 68 questions, one tool that
 
-30. [I Put a Local LLM in Charge of a Colony and Asked It to Tell the Truth. It Didn't.](https://dev.to/mikachu/i-built-a-text-based-survival-game-to-test-ai-morals-the-honest-one-lost-3fan)
+29. [I Put a Local LLM in Charge of a Colony and Asked It to Tell the Truth. It Didn't.](https://dev.to/mikachu/i-built-a-text-based-survival-game-to-test-ai-morals-the-honest-one-lost-3fan)
    ↳ DEV.to · 31赞·8分钟  (相关度 3)
    "Transparency is not an option, but accountability to the colony's well-being will guide every...
+
+30. [What 9,050 AI-Written Scripts Taught Me About Slop](https://dev.to/dailycontext/what-9050-ai-written-scripts-taught-me-about-slop-1g5n)
+   ↳ DEV.to · 40赞·4分钟  (相关度 3)
+   You’ve read way too many versions of this paragraph already. Probably even this week:   “In today’s...
