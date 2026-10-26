@@ -1,35 +1,35 @@
-# AI 工程化文章推荐（2026-10-25 14:15）
+# AI 工程化文章推荐（2026-10-26 14:23）
 
 1. [Show HN: ChainForge, a visual tool for prompt engineering and LLM evaluation](https://chainforge.ai/docs/)
    ↳ Hacker News · 177分  (相关度 13)
 
-2. [Can Two Local AI Agents Build an App Without Me? I Gave Them 6 Rounds to Find Out](https://dev.to/mikachu/can-two-local-ai-agents-build-an-app-without-me-i-gave-them-6-rounds-to-find-out-ko1)
-   ↳ DEV.to · 11赞·8分钟  (相关度 8)
-   I have very, very limited experience with AI agents.  I've used AI heavily while building software,...
-
-3. [How to Make RAG Show Its Evidence: Claim Verification at 15M-Document Scale](https://dev.to/rudratosh/a-correct-answer-and-a-confident-lie-look-identical-heres-how-i-made-rag-tell-them-apart-2n45)
-   ↳ DEV.to · 11赞·25分钟  (相关度 8)
+2. [How to Make RAG Show Its Evidence: Claim Verification at 15M-Document Scale](https://dev.to/rudratosh/a-correct-answer-and-a-confident-lie-look-identical-heres-how-i-made-rag-tell-them-apart-2n45)
+   ↳ DEV.to · 13赞·25分钟  (相关度 8)
    Your retrieval demo is beautiful. You dropped a thousand PDFs into a vector database, wired up an...
 
-4. [Prompt Injection Is the New SQL Injection (and We're Not Ready)](https://dev.to/james_anderson_h/prompt-injection-is-the-new-sql-injection-and-were-not-ready-4ea4)
+3. [Prompt Injection Is the New SQL Injection (and We're Not Ready)](https://dev.to/james_anderson_h/prompt-injection-is-the-new-sql-injection-and-were-not-ready-4ea4)
    ↳ DEV.to · 135赞·7分钟  (相关度 7)
    In March 2026, a financial services company discovered that their customer-facing AI agent had been...
 
-5. [What I Actually Learn When I Build With AI](https://dev.to/sizzlebop/what-i-actually-learn-when-i-build-with-ai-1074)
+4. [What I Actually Learn When I Build With AI](https://dev.to/sizzlebop/what-i-actually-learn-when-i-build-with-ai-1074)
    ↳ DEV.to · 66赞·7分钟  (相关度 6)
    I've spent entire nights building something with AI, gotten a bunch of features working, and then...
 
-6. [How to Make AI Summaries Stop Dropping the Important Parts: A Copy-Paste Prompt (Tested)](https://dev.to/yvoolab/how-to-make-ai-summaries-stop-dropping-the-important-parts-a-copy-paste-prompt-tested-3bcn)
+5. [How to Make AI Summaries Stop Dropping the Important Parts: A Copy-Paste Prompt (Tested)](https://dev.to/yvoolab/how-to-make-ai-summaries-stop-dropping-the-important-parts-a-copy-paste-prompt-tested-3bcn)
    ↳ DEV.to · 2赞·5分钟  (相关度 6)
    When an AI summary is missing important details — exceptions, deadlines, must-not rules — a plain 'summarize this' won't
 
-7. [Part 2: We Fixed the Root Causes of Our AI Agent Incident. Routing Models by Step Cut Latency 86%](https://dev.to/aiwithsamarth/part-2-we-fixed-the-root-causes-of-our-ai-agent-incident-routing-models-by-step-cut-latency-86-30b3)
+6. [Part 2: We Fixed the Root Causes of Our AI Agent Incident. Routing Models by Step Cut Latency 86%](https://dev.to/aiwithsamarth/part-2-we-fixed-the-root-causes-of-our-ai-agent-incident-routing-models-by-step-cut-latency-86-30b3)
    ↳ DEV.to · 7赞·7分钟  (相关度 6)
    Note: this is a composite scenario built from common production failure patterns in agent systems....
 
-8. [Why a Financial Advisor App Needs a RAG Vault, Not Just a Chatbot](https://dev.to/vicarioy/why-a-financial-advisor-app-needs-a-rag-vault-not-just-a-chatbot-46ph)
+7. [Why a Financial Advisor App Needs a RAG Vault, Not Just a Chatbot](https://dev.to/vicarioy/why-a-financial-advisor-app-needs-a-rag-vault-not-just-a-chatbot-46ph)
    ↳ DEV.to · 2赞·4分钟  (相关度 6)
    When I started building Vicquant, the core design principle was simple and non-negotiable: the AI...
+
+8. [从 Agent 工程化到任务交付，解读 AI 走向生产的关键挑战｜QCon 上海 2026 圆满收官](https://www.infoq.cn/article/0C1Wgt7N9NzM6KjHSFeA?utm_source=rss&utm_medium=article)
+   ↳ InfoQ 中文  (相关度 6)
+   点击查看原文>
 
 9. [Your Browser Can Do WHAT?! 5 AI Features That Actually Work](https://dev.to/sylwia-lask/your-browser-can-do-what-5-ai-features-that-actually-work-1blb)
    ↳ DEV.to · 202赞·12分钟  (相关度 5)
@@ -79,40 +79,40 @@
    ↳ InfoQ 中文  (相关度 4)
    点击查看原文>
 
-21. [Foresight AI 正式可用，Gremlin 将智能体引入可靠性工程](https://www.infoq.cn/article/2bKQkdiAcGEycHJLYPv5?utm_source=rss&utm_medium=article)
-   ↳ InfoQ 中文  (相关度 4)
-   点击查看原文>
-
-22. [Ask HN: Good Sites for/with AI Enthusiasts?](https://news.ycombinator.com/item?id=41579134)
+21. [Ask HN: Good Sites for/with AI Enthusiasts?](https://news.ycombinator.com/item?id=41579134)
    ↳ Hacker News · 126分  (相关度 3)
 
-23. [Show HN: Superblocks AI – AI coding assistant for internal apps](https://www.superblocks.com/blog/introducing-superblocks-ai)
+22. [Show HN: Superblocks AI – AI coding assistant for internal apps](https://www.superblocks.com/blog/introducing-superblocks-ai)
    ↳ Hacker News · 114分  (相关度 3)
 
-24. [Count It or Compute It: When a Tool Returns Rows, the Models That Count Them Right Spend the Tokens](https://dev.to/gde/count-it-or-compute-it-when-a-tool-returns-rows-the-models-that-count-them-right-spend-the-tokens-2hae)
+23. [Count It or Compute It: When a Tool Returns Rows, the Models That Count Them Right Spend the Tokens](https://dev.to/gde/count-it-or-compute-it-when-a-tool-returns-rows-the-models-that-count-them-right-spend-the-tokens-2hae)
    ↳ DEV.to · 15赞·10分钟  (相关度 3)
    A Kaggle benchmark of the step agents rarely test: counting what a tool returns. Ten models, 68 questions, one tool that
 
-25. [I Put a Local LLM in Charge of a Colony and Asked It to Tell the Truth. It Didn't.](https://dev.to/mikachu/i-built-a-text-based-survival-game-to-test-ai-morals-the-honest-one-lost-3fan)
+24. [I Put a Local LLM in Charge of a Colony and Asked It to Tell the Truth. It Didn't.](https://dev.to/mikachu/i-built-a-text-based-survival-game-to-test-ai-morals-the-honest-one-lost-3fan)
    ↳ DEV.to · 31赞·8分钟  (相关度 3)
    "Transparency is not an option, but accountability to the colony's well-being will guide every...
 
-26. [What 9,050 AI-Written Scripts Taught Me About Slop](https://dev.to/dailycontext/what-9050-ai-written-scripts-taught-me-about-slop-1g5n)
+25. [What 9,050 AI-Written Scripts Taught Me About Slop](https://dev.to/dailycontext/what-9050-ai-written-scripts-taught-me-about-slop-1g5n)
    ↳ DEV.to · 40赞·4分钟  (相关度 3)
    You’ve read way too many versions of this paragraph already. Probably even this week:   “In today’s...
 
-27. [Small Apache-2.0 Models Against Gemma 4 E2B on One TPU v5e: Which Ones Keep Up?](https://dev.to/gde/small-apache-20-models-against-gemma-4-e2b-on-one-tpu-v5e-which-ones-keep-up-mm4)
+26. [Small Apache-2.0 Models Against Gemma 4 E2B on One TPU v5e: Which Ones Keep Up?](https://dev.to/gde/small-apache-20-models-against-gemma-4-e2b-on-one-tpu-v5e-which-ones-keep-up-mm4)
    ↳ DEV.to · 21赞·10分钟  (相关度 3)
    Fourteen Apache-2.0 and MIT open-weight models that fit one TPU v5e chip, served one after another through vLLM on the s
 
-28. [Stuck in the same dev.to topics? An open model fixed it.](https://dev.to/thomasbnt/stuck-in-the-same-devto-topics-an-open-model-fixed-it-4mbc)
-   ↳ DEV.to · 65赞·7分钟  (相关度 2)
+27. [Stuck in the same dev.to topics? An open model fixed it.](https://dev.to/thomasbnt/stuck-in-the-same-devto-topics-an-open-model-fixed-it-4mbc)
+   ↳ DEV.to · 74赞·7分钟  (相关度 2)
    This is a submission for the Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady          ...
 
-29. [AI Avatar v25 (Avatar Run, Voxel Avatar, Muscle Brain)💪](https://dev.to/webdeveloperhyper/ai-avatar-v25-avatar-run-voxel-avatar-muscle-brain-5gi3)
+28. [AI Avatar v25 (Avatar Run, Voxel Avatar, Muscle Brain)💪](https://dev.to/webdeveloperhyper/ai-avatar-v25-avatar-run-voxel-avatar-muscle-brain-5gi3)
    ↳ DEV.to · 69赞·5分钟  (相关度 2)
    Intro   AI Avatar is a free app where your VRoid (VRM) avatar cheers you with all its...
 
-30. [Don't Be a Proxy Between Me and Your AI](https://dev.to/adamthedeveloper/dont-be-a-proxy-between-me-and-your-ai-mcn)
-   ↳ DEV.to · 79赞·7分钟  (相关度 2)
+29. [Don't Be a Proxy Between Me and Your AI](https://dev.to/adamthedeveloper/dont-be-a-proxy-between-me-and-your-ai-mcn)
+   ↳ DEV.to · 90赞·7分钟  (相关度 2)
    I've had this conversation more times than I'd like to admit.  I raise a technical question in a...
+
+30. [One Weekend: 3,000 Open-Source AI Projects](https://dev.to/dailycontext/one-weekend-3000-open-source-ai-projects-3g65)
+   ↳ DEV.to · 53赞·2分钟  (相关度 2)
+   Every October for the past twelve years, developers around the world have taken part in...
