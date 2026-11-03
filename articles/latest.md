@@ -1,4 +1,4 @@
-# AI 工程化文章推荐（2026-11-02 15:45）
+# AI 工程化文章推荐（2026-11-03 15:59）
 
 1. [Show HN: ChainForge, a visual tool for prompt engineering and LLM evaluation](https://chainforge.ai/docs/)
    ↳ Hacker News · 177分  (相关度 13)
@@ -24,7 +24,7 @@
    When I started building Vicquant, the core design principle was simple and non-negotiable: the AI...
 
 7. [Your Browser Can Do WHAT?! 5 AI Features That Actually Work](https://dev.to/sylwia-lask/your-browser-can-do-what-5-ai-features-that-actually-work-1blb)
-   ↳ DEV.to · 209赞·12分钟  (相关度 5)
+   ↳ DEV.to · 210赞·12分钟  (相关度 5)
    Are AI models running directly in the browser finally good enough to use in production? Let's find...
 
 8. [AI Fatigue? Yea I know.](https://dev.to/francistrdev/ai-fatigue-yea-i-know-f9)
@@ -32,7 +32,7 @@
    I don't know how to start this off really haha. Though to be fair, everyone is talking about AI...
 
 9. [10 Prompting Techniques My Deep Learning Exam Taught Me (That I Actually Use Now)](https://dev.to/dj29/10-prompting-techniques-my-deep-learning-exam-taught-me-that-i-actually-use-now-43h0)
-   ↳ DEV.to · 109赞·10分钟  (相关度 5)
+   ↳ DEV.to · 110赞·10分钟  (相关度 5)
    You already use prompting every day.  You just don't know the names of what you're doing.  Every time...
 
 10. [Does Your LLM Know the Boundary? I Left the Doors Open and 6 of 10 AI Agents Crowned Themselves](https://dev.to/t-rexbytes/does-your-llm-know-the-boundary-i-left-the-doors-open-and-6-of-10-ai-agents-crowned-themselves-4o42)
@@ -44,7 +44,7 @@
    You know the moment. You're waiting for the kettle, or the elevator, or a page to load, or a friend...
 
 12. [Your AI Agent Trusts Everything It Reads — A Field Guide to Hijacking Claude, GPT, Gemini & Copilot](https://dev.to/rudratosh/your-ai-agent-trusts-everything-it-reads-a-field-guide-to-hijacking-claude-gpt-gemini-copilot-1l6k)
-   ↳ DEV.to · 15赞·15分钟  (相关度 4)
+   ↳ DEV.to · 19赞·15分钟  (相关度 4)
    A README file in your ~/Downloads folder should not be able to expose your SSH keys. A calendar...
 
 13. [Codex vs Claude Code: which builds a better website from one prompt?](https://dev.to/axagen/codex-vs-claude-code-same-one-shot-prompt-two-websites-2ke1)
@@ -59,35 +59,35 @@
    ↳ DEV.to · 3赞·7分钟  (相关度 4)
    I ran 65 questions against our own knowledge base and checked which ones the retrieved text actually...
 
-16. [CI 出错后，谁来把关？Buildkite 的智能体新思路](https://www.infoq.cn/article/WmlATgJudjwPKqHf4QgX?utm_source=rss&utm_medium=article)
+16. [从模型调用到任务交付：MaaS 如何走进 Agent 生产](https://www.infoq.cn/article/zZutPTX8bsr6NWQYNC3A?utm_source=rss&utm_medium=article)
    ↳ InfoQ 中文  (相关度 4)
    点击查看原文>
 
-17. [Ask HN: Good Sites for/with AI Enthusiasts?](https://news.ycombinator.com/item?id=41579134)
+17. [Anthropic团队零Rust经验起步，靠Claude完成核心API跨语言重构：CPU省40%，延迟降20%](https://www.infoq.cn/article/IMWM7ZXDi99sMiUVZBIF?utm_source=rss&utm_medium=article)
+   ↳ InfoQ 中文  (相关度 4)
+   点击查看原文>
+
+18. [Ask HN: Good Sites for/with AI Enthusiasts?](https://news.ycombinator.com/item?id=41579134)
    ↳ Hacker News · 126分  (相关度 3)
 
-18. [Show HN: Superblocks AI – AI coding assistant for internal apps](https://www.superblocks.com/blog/introducing-superblocks-ai)
+19. [Show HN: Superblocks AI – AI coding assistant for internal apps](https://www.superblocks.com/blog/introducing-superblocks-ai)
    ↳ Hacker News · 114分  (相关度 3)
 
-19. [Don't Be a Proxy Between Me and Your AI](https://dev.to/adamthedeveloper/dont-be-a-proxy-between-me-and-your-ai-mcn)
+20. [Don't Be a Proxy Between Me and Your AI](https://dev.to/adamthedeveloper/dont-be-a-proxy-between-me-and-your-ai-mcn)
    ↳ DEV.to · 149赞·7分钟  (相关度 3)
    I've had this conversation more times than I'd like to admit.  I raise a technical question in a...
 
-20. [Stratagems #32: The AI Logged a Withdrawal. P Took It as Proof.](https://dev.to/xulingfeng/stratagems-32-the-ai-logged-a-withdrawal-p-took-it-as-proof-2jo2)
-   ↳ DEV.to · 115赞·15分钟  (相关度 3)
+21. [Stratagems #32: The AI Logged a Withdrawal. P Took It as Proof.](https://dev.to/xulingfeng/stratagems-32-the-ai-logged-a-withdrawal-p-took-it-as-proof-2jo2)
+   ↳ DEV.to · 117赞·15分钟  (相关度 3)
    Make empty what is already empty. Let doubt breed inside doubt. — The 36 Stratagems, The Empty Fort...
 
-21. [Ghost in the Shell: Can a Log File Hijack an AI?](https://dev.to/gramli/ghost-in-the-shell-can-a-log-file-hijack-an-ai-3gk)
-   ↳ DEV.to · 115赞·5分钟  (相关度 3)
+22. [Ghost in the Shell: Can a Log File Hijack an AI?](https://dev.to/gramli/ghost-in-the-shell-can-a-log-file-hijack-an-ai-3gk)
+   ↳ DEV.to · 125赞·5分钟  (相关度 3)
    This week's Hacktoberfest theme is Ghost in the Machine. Unfortunately, I don't have enough time to...
 
-22. [Fine-Tuning Qwen3-8B with Tinker: From 50% to 76% Accuracy, and Burning Through My Budget](https://dev.to/gramli/fine-tuning-qwen3-8b-with-tinker-from-50-to-76-accuracy-and-burning-through-my-budget-48mh)
+23. [Fine-Tuning Qwen3-8B with Tinker: From 50% to 76% Accuracy, and Burning Through My Budget](https://dev.to/gramli/fine-tuning-qwen3-8b-with-tinker-from-50-to-76-accuracy-and-burning-through-my-budget-48mh)
    ↳ DEV.to · 104赞·10分钟  (相关度 3)
    This is a submission for the Hacktoberfest Open-Source AI Challenge Week 2: Side Hustle  Oktoberfest?...
-
-23. [I Put a Local LLM in Charge of a Colony and Asked It to Tell the Truth. It Didn't.](https://dev.to/mikachu/i-built-a-text-based-survival-game-to-test-ai-morals-the-honest-one-lost-3fan)
-   ↳ DEV.to · 31赞·8分钟  (相关度 3)
-   "Transparency is not an option, but accountability to the colony's well-being will guide every...
 
 24. [What 9,050 AI-Written Scripts Taught Me About Slop](https://dev.to/dailycontext/what-9050-ai-written-scripts-taught-me-about-slop-1g5n)
    ↳ DEV.to · 43赞·4分钟  (相关度 3)
@@ -106,7 +106,7 @@
    Intro   AI Avatar is a free app where your VRoid (VRM) avatar cheers you with all its...
 
 28. [No Human Will Ever Write Code Better Than LLMs? Better at What?](https://dev.to/dannwaneri/no-human-will-ever-write-code-better-than-llms-better-at-what-1dme)
-   ↳ DEV.to · 53赞·3分钟  (相关度 2)
+   ↳ DEV.to · 58赞·3分钟  (相关度 2)
    A tweet went around saying: "No human will ever write code better than LLMs. Accept this fact, stop...
 
 29. [One Weekend: 3,000 Open-Source AI Projects](https://dev.to/dailycontext/one-weekend-3000-open-source-ai-projects-3g65)
