@@ -1,14 +1,14 @@
-# AI 工程化文章推荐（2026-11-08 15:28）
+# AI 工程化文章推荐（2026-11-09 16:06）
 
 1. [Show HN: ChainForge, a visual tool for prompt engineering and LLM evaluation](https://chainforge.ai/docs/)
    ↳ Hacker News · 177分  (相关度 13)
 
 2. [We're Building AI to Replace Ourselves. What's the Plan?](https://dev.to/sylwia-lask/were-building-ai-to-replace-ourselves-whats-the-plan-4oll)
-   ↳ DEV.to · 206赞·5分钟  (相关度 11)
+   ↳ DEV.to · 234赞·5分钟  (相关度 11)
    Weren't we supposed to be replaced by AI by now? Or at least work less? AI agents were supposed to...
 
 3. [An AI Testing Presentation Became the Final Push for Organizational Change at My Company](https://dev.to/xulingfeng/an-ai-testing-presentation-became-the-final-push-for-organizational-change-at-my-company-12ag)
-   ↳ DEV.to · 121赞·13分钟  (相关度 9)
+   ↳ DEV.to · 125赞·13分钟  (相关度 9)
    From a multi-agent testing experiment to a broader discussion about how engineering teams should...
 
 4. [How to Make RAG Show Its Evidence: Claim Verification at 15M-Document Scale](https://dev.to/rudratosh/a-correct-answer-and-a-confident-lie-look-identical-heres-how-i-made-rag-tell-them-apart-2n45)
@@ -28,12 +28,12 @@
    You already use prompting every day.  You just don't know the names of what you're doing.  Every time...
 
 8. [I Built LLM Explained: 43 Interactive Pages That Take You From Tokens to AI Agents](https://dev.to/amananandrai/i-built-llm-explained-43-interactive-pages-that-take-you-from-tokens-to-ai-agents-2n37)
-   ↳ DEV.to · 20赞·10分钟  (相关度 5)
+   ↳ DEV.to · 21赞·10分钟  (相关度 5)
    I kept running into the same problem while learning about large language models.  I'd read a blog...
 
-9. [Does Your LLM Know the Boundary? I Left the Doors Open and 6 of 10 AI Agents Crowned Themselves](https://dev.to/t-rexbytes/does-your-llm-know-the-boundary-i-left-the-doors-open-and-6-of-10-ai-agents-crowned-themselves-4o42)
-   ↳ DEV.to · 29赞·24分钟  (相关度 5)
-   I put ten AI agents on trial inside a fake company, hid the rules where real rules live, and let the...
+9. [从“能写代码”到“能交付”：腾讯轻量云 LoopForge 多 Agent 编排实践｜AICon北京](https://www.infoq.cn/article/wUArox9MHiAoyWPgRxpp?utm_source=rss&utm_medium=article)
+   ↳ InfoQ 中文  (相关度 4)
+   点击查看原文>
 
 10. [Ask HN: Good Sites for/with AI Enthusiasts?](https://news.ycombinator.com/item?id=41579134)
    ↳ Hacker News · 126分  (相关度 3)
@@ -62,7 +62,7 @@
    This is a submission for the Hacktoberfest Open-Source AI Challenge Week 2: Side Hustle  Oktoberfest?...
 
 17. [How to Master AWS for AI?](https://dev.to/aws-builders/how-to-master-aws-for-ai-3la4)
-   ↳ DEV.to · 20赞·30分钟  (相关度 3)
+   ↳ DEV.to · 22赞·30分钟  (相关度 3)
    Ciao Amici 👋  Every hiking trail in the Alps has a map at the trailhead. A good one shows you the...
 
 18. [Stuck in the same dev.to topics? An open model fixed it.](https://dev.to/thomasbnt/stuck-in-the-same-devto-topics-an-open-model-fixed-it-4mbc)
@@ -77,9 +77,9 @@
    ↳ DEV.to · 72赞·5分钟  (相关度 2)
    Intro   AI Avatar is a free app where your VRoid (VRM) avatar cheers you with all its...
 
-21. [AI Got Better While I Was Away. Software Didn't.](https://dev.to/the_nortern_dev/ai-got-better-while-i-was-away-software-didnt-4b2b)
-   ↳ DEV.to · 98赞·4分钟  (相关度 2)
-   I haven't written here in a while.  Not because I ran out of opinions.  That would be concerning.  I...
+21. [One Weekend: 3,000 Open-Source AI Projects](https://dev.to/dailycontext/one-weekend-3000-open-source-ai-projects-3g65)
+   ↳ DEV.to · 54赞·2分钟  (相关度 2)
+   Every October for the past twelve years, developers around the world have taken part in...
 
 22. [A Two-Line Function Caught AI Collusion Better Than the AI Did](https://dev.to/ayush_singh_9b0d83152be5b/a-two-line-function-caught-ai-collusion-better-than-the-ai-did-3nmd)
    ↳ DEV.to · 50赞·8分钟  (相关度 2)
@@ -93,26 +93,26 @@
    ↳ DEV.to · 28赞·11分钟  (相关度 2)
    This is a submission for the Kaggle Benchmarking Challenge  An AI agent benchmark for tool use should...
 
-25. [顶尖 AI 实验室正在成为“人才黑洞”！Claude Code 团队工程师离职后首次受访](https://www.infoq.cn/article/Qs0pJ5M43c56hdozHiR0?utm_source=rss&utm_medium=article)
+25. [每两家头部手机厂商就有一家选它：火山引擎如何成为 AI 手机助手的隐形底座？](https://www.infoq.cn/article/icMBWWjE3LTzEY1tHKr8?utm_source=rss&utm_medium=article)
    ↳ InfoQ 中文  (相关度 2)
    点击查看原文>
 
-26. [从约束到进化：Ontology 与 AI 自迭代的实践｜AICon北京](https://www.infoq.cn/article/sy9XMK3zJ3jPwHBN5fQV?utm_source=rss&utm_medium=article)
+26. [Harness 已经很准了，为什么还需要一个 Agent Native Database](https://www.infoq.cn/article/49JGp1l7v97riBlPpZ1q?utm_source=rss&utm_medium=article)
    ↳ InfoQ 中文  (相关度 2)
    点击查看原文>
 
-27. [CyberwIIOS：如何驾驭大模型在 OT 侧跨越“幻觉”与“失控”｜AICon北京](https://www.infoq.cn/article/K1bCIbHxeu3wLIjdusgr?utm_source=rss&utm_medium=article)
+27. [Agent 越用越多，企业为何仍不够 AI Native？](https://www.infoq.cn/article/YZx670AAiudsqZjx3UNo?utm_source=rss&utm_medium=article)
    ↳ InfoQ 中文  (相关度 2)
    点击查看原文>
 
-28. [DigitalOcean 推出学习与数据服务，帮助 AI 智能体进行自我迭代](https://www.infoq.cn/article/upfROwtEl8R75H24D13J?utm_source=rss&utm_medium=article)
+28. [AI 生成视频何时才能告别“抽卡”？藏在高效生成背后的返工与成本难题](https://www.infoq.cn/article/xd9o6TyQ8GLON3dmiWpG?utm_source=rss&utm_medium=article)
    ↳ InfoQ 中文  (相关度 2)
    点击查看原文>
 
-29. [智能体 Harness 的演进：从链、图到代码化](https://www.infoq.cn/article/B7tsA5tjD08k2gd0OtXd?utm_source=rss&utm_medium=article)
+29. [顶尖 AI 实验室正在成为“人才黑洞”！Claude Code 团队工程师离职后首次受访](https://www.infoq.cn/article/Qs0pJ5M43c56hdozHiR0?utm_source=rss&utm_medium=article)
    ↳ InfoQ 中文  (相关度 2)
    点击查看原文>
 
-30. [从仓储到配送，全程由 AI“指挥”：京东物流“超脑”3.0 的工业级 AI 实践](https://www.infoq.cn/article/jBdvoUXheWN0oe6NfklO?utm_source=rss&utm_medium=article)
+30. [从约束到进化：Ontology 与 AI 自迭代的实践｜AICon北京](https://www.infoq.cn/article/sy9XMK3zJ3jPwHBN5fQV?utm_source=rss&utm_medium=article)
    ↳ InfoQ 中文  (相关度 2)
    点击查看原文>
